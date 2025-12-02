@@ -1,0 +1,6 @@
+body{font-family:Calibri, Arial, sans-serif; margin:20px}
+.header{display:flex;justify-content:space-between;align-items:center}
+.items{display:flex;flex-wrap:wrap;gap:12px}
+.card{border:1px solid #ddd;padding:12px;border-radius:8px;width:220px}
+.button{background:#007bff;color:#fff;padding:8px 10px;border:none;border-radius:6px;cursor:pointer}
+.cart{position:fixed;right:20px;top:20px;background:#fff;border:1px solid #ddd;padding:10px;border-radius:8px}
